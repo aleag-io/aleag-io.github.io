@@ -27,6 +27,13 @@ url: 'https://docs.aleag.io' # the base hostname & protocol for your site, e.g. 
 twitter_username: anoopgeorge
 github_username: georgeanoop
 
+navbar-links:
+  About Me: 'aboutme'
+  Resources:
+    - Beautiful Jekyll: 'https://beautifuljekyll.com'
+    - Learn markdown: 'https://www.markdowntutorial.com/'
+  Author's home: 'https://aleag.io'
+
 # Build settings
 theme: minima
 plugins:
