@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-# what does this say?
