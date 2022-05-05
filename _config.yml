@@ -30,7 +30,7 @@ twitter_username: anoopgeorge
 github_username: georgeanoop
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 # Exclude from processing.
